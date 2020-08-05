@@ -2,6 +2,13 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <PackageId>Ro.Sql.Data</PackageId>
+    <Version>0.0.1</Version>
+    <Authors>Rodrigo Jiménez</Authors>
+    <Company>ro-mx</Company>
+    <CreatePackageOnBuild>ro-mx</CreatePackageOnBuild>
+    <PackageLicenseFile>LICENSE</PackageLicenseFile>
+    <RepositoryUrl>https://github.com/rogithub/Ro.Sql.Data</RepositoryUrl>
   </PropertyGroup>
 
   <ItemGroup>
